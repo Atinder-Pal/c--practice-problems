@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\bin\Debug\netcoreapp3.1\PaintRequiredForPosts.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\bin\Debug\netcoreapp3.1\PaintRequiredForPosts.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\bin\Debug\netcoreapp3.1\PaintRequiredForPosts.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\bin\Debug\netcoreapp3.1\PaintRequiredForPosts.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\bin\Debug\netcoreapp3.1\PaintRequiredForPosts.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\bin\Debug\netcoreapp3.1\PaintRequiredForPosts.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\obj\Debug\netcoreapp3.1\PaintRequiredForPosts.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\obj\Debug\netcoreapp3.1\PaintRequiredForPosts.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\obj\Debug\netcoreapp3.1\PaintRequiredForPosts.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\obj\Debug\netcoreapp3.1\PaintRequiredForPosts.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\obj\Debug\netcoreapp3.1\PaintRequiredForPosts.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\obj\Debug\netcoreapp3.1\PaintRequiredForPosts.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PaintRequiredForPosts\obj\Debug\netcoreapp3.1\PaintRequiredForPosts.genruntimeconfig.cache

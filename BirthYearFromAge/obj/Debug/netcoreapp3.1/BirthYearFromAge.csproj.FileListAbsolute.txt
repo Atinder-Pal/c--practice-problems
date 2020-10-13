@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\bin\Debug\netcoreapp3.1\BirthYearFromAge.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\bin\Debug\netcoreapp3.1\BirthYearFromAge.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\bin\Debug\netcoreapp3.1\BirthYearFromAge.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\bin\Debug\netcoreapp3.1\BirthYearFromAge.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\bin\Debug\netcoreapp3.1\BirthYearFromAge.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\bin\Debug\netcoreapp3.1\BirthYearFromAge.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\obj\Debug\netcoreapp3.1\BirthYearFromAge.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\obj\Debug\netcoreapp3.1\BirthYearFromAge.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\obj\Debug\netcoreapp3.1\BirthYearFromAge.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\obj\Debug\netcoreapp3.1\BirthYearFromAge.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\obj\Debug\netcoreapp3.1\BirthYearFromAge.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\obj\Debug\netcoreapp3.1\BirthYearFromAge.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BirthYearFromAge\obj\Debug\netcoreapp3.1\BirthYearFromAge.genruntimeconfig.cache

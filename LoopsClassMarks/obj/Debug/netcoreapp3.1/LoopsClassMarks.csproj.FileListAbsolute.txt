@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\bin\Debug\netcoreapp3.1\LoopsClassMarks.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\bin\Debug\netcoreapp3.1\LoopsClassMarks.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\bin\Debug\netcoreapp3.1\LoopsClassMarks.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\bin\Debug\netcoreapp3.1\LoopsClassMarks.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\bin\Debug\netcoreapp3.1\LoopsClassMarks.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\bin\Debug\netcoreapp3.1\LoopsClassMarks.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\obj\Debug\netcoreapp3.1\LoopsClassMarks.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\obj\Debug\netcoreapp3.1\LoopsClassMarks.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\obj\Debug\netcoreapp3.1\LoopsClassMarks.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\obj\Debug\netcoreapp3.1\LoopsClassMarks.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\obj\Debug\netcoreapp3.1\LoopsClassMarks.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\obj\Debug\netcoreapp3.1\LoopsClassMarks.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsClassMarks\obj\Debug\netcoreapp3.1\LoopsClassMarks.genruntimeconfig.cache

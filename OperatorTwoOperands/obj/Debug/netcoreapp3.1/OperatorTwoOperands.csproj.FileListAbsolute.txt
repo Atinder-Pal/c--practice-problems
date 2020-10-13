@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\bin\Debug\netcoreapp3.1\OperatorTwoOperands.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\bin\Debug\netcoreapp3.1\OperatorTwoOperands.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\bin\Debug\netcoreapp3.1\OperatorTwoOperands.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\bin\Debug\netcoreapp3.1\OperatorTwoOperands.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\bin\Debug\netcoreapp3.1\OperatorTwoOperands.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\bin\Debug\netcoreapp3.1\OperatorTwoOperands.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\obj\Debug\netcoreapp3.1\OperatorTwoOperands.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\obj\Debug\netcoreapp3.1\OperatorTwoOperands.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\obj\Debug\netcoreapp3.1\OperatorTwoOperands.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\obj\Debug\netcoreapp3.1\OperatorTwoOperands.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\obj\Debug\netcoreapp3.1\OperatorTwoOperands.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\obj\Debug\netcoreapp3.1\OperatorTwoOperands.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\OperatorTwoOperands\obj\Debug\netcoreapp3.1\OperatorTwoOperands.genruntimeconfig.cache

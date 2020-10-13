@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\bin\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\bin\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\bin\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\bin\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\bin\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\bin\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\obj\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\obj\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\obj\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\obj\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\obj\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\obj\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\WhileLoopGetIntOneToTen\obj\Debug\netcoreapp3.1\WhileLoopGetIntOneToTen.genruntimeconfig.cache

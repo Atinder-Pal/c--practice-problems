@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\bin\Debug\netcoreapp3.1\LoopsFizzBuzz.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\bin\Debug\netcoreapp3.1\LoopsFizzBuzz.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\bin\Debug\netcoreapp3.1\LoopsFizzBuzz.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\bin\Debug\netcoreapp3.1\LoopsFizzBuzz.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\bin\Debug\netcoreapp3.1\LoopsFizzBuzz.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\bin\Debug\netcoreapp3.1\LoopsFizzBuzz.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\obj\Debug\netcoreapp3.1\LoopsFizzBuzz.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\obj\Debug\netcoreapp3.1\LoopsFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\obj\Debug\netcoreapp3.1\LoopsFizzBuzz.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\obj\Debug\netcoreapp3.1\LoopsFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\obj\Debug\netcoreapp3.1\LoopsFizzBuzz.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\obj\Debug\netcoreapp3.1\LoopsFizzBuzz.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\LoopsFizzBuzz\obj\Debug\netcoreapp3.1\LoopsFizzBuzz.genruntimeconfig.cache

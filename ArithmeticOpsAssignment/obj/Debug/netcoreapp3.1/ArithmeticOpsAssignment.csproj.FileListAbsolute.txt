@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\bin\Debug\netcoreapp3.1\ArithmeticOpsAssignment.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\bin\Debug\netcoreapp3.1\ArithmeticOpsAssignment.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\bin\Debug\netcoreapp3.1\ArithmeticOpsAssignment.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\bin\Debug\netcoreapp3.1\ArithmeticOpsAssignment.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\bin\Debug\netcoreapp3.1\ArithmeticOpsAssignment.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\bin\Debug\netcoreapp3.1\ArithmeticOpsAssignment.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\obj\Debug\netcoreapp3.1\ArithmeticOpsAssignment.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\obj\Debug\netcoreapp3.1\ArithmeticOpsAssignment.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\obj\Debug\netcoreapp3.1\ArithmeticOpsAssignment.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\obj\Debug\netcoreapp3.1\ArithmeticOpsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\obj\Debug\netcoreapp3.1\ArithmeticOpsAssignment.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\obj\Debug\netcoreapp3.1\ArithmeticOpsAssignment.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArithmeticOpsAssignment\obj\Debug\netcoreapp3.1\ArithmeticOpsAssignment.genruntimeconfig.cache

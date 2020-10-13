@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\bin\Debug\netcoreapp3.1\GuessPerfectSquareNumber.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\bin\Debug\netcoreapp3.1\GuessPerfectSquareNumber.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\bin\Debug\netcoreapp3.1\GuessPerfectSquareNumber.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\bin\Debug\netcoreapp3.1\GuessPerfectSquareNumber.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\bin\Debug\netcoreapp3.1\GuessPerfectSquareNumber.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\bin\Debug\netcoreapp3.1\GuessPerfectSquareNumber.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\obj\Debug\netcoreapp3.1\GuessPerfectSquareNumber.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\obj\Debug\netcoreapp3.1\GuessPerfectSquareNumber.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\obj\Debug\netcoreapp3.1\GuessPerfectSquareNumber.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\obj\Debug\netcoreapp3.1\GuessPerfectSquareNumber.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\obj\Debug\netcoreapp3.1\GuessPerfectSquareNumber.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\obj\Debug\netcoreapp3.1\GuessPerfectSquareNumber.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessPerfectSquareNumber\obj\Debug\netcoreapp3.1\GuessPerfectSquareNumber.genruntimeconfig.cache

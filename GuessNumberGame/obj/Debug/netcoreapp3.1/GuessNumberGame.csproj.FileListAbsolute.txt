@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.genruntimeconfig.cache

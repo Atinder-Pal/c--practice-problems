@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\bin\Debug\netcoreapp3.1\ExceptionHandling1.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\bin\Debug\netcoreapp3.1\ExceptionHandling1.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\bin\Debug\netcoreapp3.1\ExceptionHandling1.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\bin\Debug\netcoreapp3.1\ExceptionHandling1.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\bin\Debug\netcoreapp3.1\ExceptionHandling1.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\bin\Debug\netcoreapp3.1\ExceptionHandling1.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\obj\Debug\netcoreapp3.1\ExceptionHandling1.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\obj\Debug\netcoreapp3.1\ExceptionHandling1.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\obj\Debug\netcoreapp3.1\ExceptionHandling1.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\obj\Debug\netcoreapp3.1\ExceptionHandling1.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\obj\Debug\netcoreapp3.1\ExceptionHandling1.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\obj\Debug\netcoreapp3.1\ExceptionHandling1.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ExceptionHandling1\obj\Debug\netcoreapp3.1\ExceptionHandling1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\bin\Debug\netcoreapp3.1\StringToUppercase.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\bin\Debug\netcoreapp3.1\StringToUppercase.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\bin\Debug\netcoreapp3.1\StringToUppercase.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\bin\Debug\netcoreapp3.1\StringToUppercase.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\bin\Debug\netcoreapp3.1\StringToUppercase.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\bin\Debug\netcoreapp3.1\StringToUppercase.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\obj\Debug\netcoreapp3.1\StringToUppercase.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\obj\Debug\netcoreapp3.1\StringToUppercase.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\obj\Debug\netcoreapp3.1\StringToUppercase.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\obj\Debug\netcoreapp3.1\StringToUppercase.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\obj\Debug\netcoreapp3.1\StringToUppercase.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\obj\Debug\netcoreapp3.1\StringToUppercase.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\StringToUppercase\obj\Debug\netcoreapp3.1\StringToUppercase.genruntimeconfig.cache

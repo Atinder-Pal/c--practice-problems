@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\bin\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\bin\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\bin\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\bin\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\bin\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\bin\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\obj\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\obj\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\obj\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\obj\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\obj\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\obj\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\HighestLowestOfThreeIntegres\obj\Debug\netcoreapp3.1\HighestLowestOfThreeIntegres.genruntimeconfig.cache

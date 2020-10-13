@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\bin\Debug\netcoreapp3.1\BillSplit.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\bin\Debug\netcoreapp3.1\BillSplit.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\bin\Debug\netcoreapp3.1\BillSplit.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\bin\Debug\netcoreapp3.1\BillSplit.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\bin\Debug\netcoreapp3.1\BillSplit.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\bin\Debug\netcoreapp3.1\BillSplit.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\obj\Debug\netcoreapp3.1\BillSplit.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\obj\Debug\netcoreapp3.1\BillSplit.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\obj\Debug\netcoreapp3.1\BillSplit.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\obj\Debug\netcoreapp3.1\BillSplit.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\obj\Debug\netcoreapp3.1\BillSplit.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\obj\Debug\netcoreapp3.1\BillSplit.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\BillSplit\obj\Debug\netcoreapp3.1\BillSplit.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\bin\Debug\netcoreapp3.1\ArrayOfNames.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\bin\Debug\netcoreapp3.1\ArrayOfNames.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\bin\Debug\netcoreapp3.1\ArrayOfNames.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\bin\Debug\netcoreapp3.1\ArrayOfNames.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\bin\Debug\netcoreapp3.1\ArrayOfNames.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\bin\Debug\netcoreapp3.1\ArrayOfNames.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\obj\Debug\netcoreapp3.1\ArrayOfNames.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\obj\Debug\netcoreapp3.1\ArrayOfNames.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\obj\Debug\netcoreapp3.1\ArrayOfNames.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\obj\Debug\netcoreapp3.1\ArrayOfNames.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\obj\Debug\netcoreapp3.1\ArrayOfNames.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\obj\Debug\netcoreapp3.1\ArrayOfNames.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\ArrayOfNames\obj\Debug\netcoreapp3.1\ArrayOfNames.genruntimeconfig.cache

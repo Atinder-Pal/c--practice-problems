@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\bin\Debug\netcoreapp3.1\GuessEvenOddNumber.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\bin\Debug\netcoreapp3.1\GuessEvenOddNumber.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\bin\Debug\netcoreapp3.1\GuessEvenOddNumber.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\bin\Debug\netcoreapp3.1\GuessEvenOddNumber.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\bin\Debug\netcoreapp3.1\GuessEvenOddNumber.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\bin\Debug\netcoreapp3.1\GuessEvenOddNumber.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\obj\Debug\netcoreapp3.1\GuessEvenOddNumber.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\obj\Debug\netcoreapp3.1\GuessEvenOddNumber.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\obj\Debug\netcoreapp3.1\GuessEvenOddNumber.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\obj\Debug\netcoreapp3.1\GuessEvenOddNumber.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\obj\Debug\netcoreapp3.1\GuessEvenOddNumber.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\obj\Debug\netcoreapp3.1\GuessEvenOddNumber.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\GuessEvenOddNumber\obj\Debug\netcoreapp3.1\GuessEvenOddNumber.genruntimeconfig.cache

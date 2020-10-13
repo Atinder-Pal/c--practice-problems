@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\bin\Debug\netcoreapp3.1\DoWhileLoopSayHello.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\bin\Debug\netcoreapp3.1\DoWhileLoopSayHello.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\bin\Debug\netcoreapp3.1\DoWhileLoopSayHello.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\bin\Debug\netcoreapp3.1\DoWhileLoopSayHello.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\bin\Debug\netcoreapp3.1\DoWhileLoopSayHello.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\bin\Debug\netcoreapp3.1\DoWhileLoopSayHello.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\obj\Debug\netcoreapp3.1\DoWhileLoopSayHello.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\obj\Debug\netcoreapp3.1\DoWhileLoopSayHello.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\obj\Debug\netcoreapp3.1\DoWhileLoopSayHello.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\obj\Debug\netcoreapp3.1\DoWhileLoopSayHello.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\obj\Debug\netcoreapp3.1\DoWhileLoopSayHello.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\obj\Debug\netcoreapp3.1\DoWhileLoopSayHello.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\DoWhileLoopSayHello\obj\Debug\netcoreapp3.1\DoWhileLoopSayHello.genruntimeconfig.cache

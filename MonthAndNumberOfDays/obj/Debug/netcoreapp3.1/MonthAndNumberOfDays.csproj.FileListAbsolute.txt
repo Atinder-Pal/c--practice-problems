@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\bin\Debug\netcoreapp3.1\MonthAndNumberOfDays.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\bin\Debug\netcoreapp3.1\MonthAndNumberOfDays.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\bin\Debug\netcoreapp3.1\MonthAndNumberOfDays.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\bin\Debug\netcoreapp3.1\MonthAndNumberOfDays.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\bin\Debug\netcoreapp3.1\MonthAndNumberOfDays.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\bin\Debug\netcoreapp3.1\MonthAndNumberOfDays.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\obj\Debug\netcoreapp3.1\MonthAndNumberOfDays.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\obj\Debug\netcoreapp3.1\MonthAndNumberOfDays.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\obj\Debug\netcoreapp3.1\MonthAndNumberOfDays.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\obj\Debug\netcoreapp3.1\MonthAndNumberOfDays.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\obj\Debug\netcoreapp3.1\MonthAndNumberOfDays.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\obj\Debug\netcoreapp3.1\MonthAndNumberOfDays.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\MonthAndNumberOfDays\obj\Debug\netcoreapp3.1\MonthAndNumberOfDays.genruntimeconfig.cache

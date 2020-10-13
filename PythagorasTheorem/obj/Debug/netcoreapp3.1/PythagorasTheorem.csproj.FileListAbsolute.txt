@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\bin\Debug\netcoreapp3.1\PythagorasTheorem.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\bin\Debug\netcoreapp3.1\PythagorasTheorem.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\bin\Debug\netcoreapp3.1\PythagorasTheorem.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\bin\Debug\netcoreapp3.1\PythagorasTheorem.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\bin\Debug\netcoreapp3.1\PythagorasTheorem.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\bin\Debug\netcoreapp3.1\PythagorasTheorem.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\obj\Debug\netcoreapp3.1\PythagorasTheorem.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\obj\Debug\netcoreapp3.1\PythagorasTheorem.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\obj\Debug\netcoreapp3.1\PythagorasTheorem.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\obj\Debug\netcoreapp3.1\PythagorasTheorem.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\obj\Debug\netcoreapp3.1\PythagorasTheorem.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\obj\Debug\netcoreapp3.1\PythagorasTheorem.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\PythagorasTheorem\obj\Debug\netcoreapp3.1\PythagorasTheorem.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\bin\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.exe
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\bin\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.deps.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\bin\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.runtimeconfig.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\bin\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.runtimeconfig.dev.json
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\bin\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\bin\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\obj\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.csprojAssemblyReference.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\obj\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.AssemblyInfoInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\obj\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.AssemblyInfo.cs
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\obj\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.csproj.CoreCompileInputs.cache
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\obj\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.dll
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\obj\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.pdb
+C:\Users\Atinder Kaur Dhillon\Documents\Tech-Careeres\Code\SumOfDigitsOfFourDigitNumber\obj\Debug\netcoreapp3.1\SumOfDigitsOfFourDigitNumber.genruntimeconfig.cache
